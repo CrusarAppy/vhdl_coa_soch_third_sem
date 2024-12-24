@@ -1,0 +1,7 @@
+v 4
+file . "tb_full_adder.vhdl" "f989c1e5ffd0672181f0be7f9ae0c0a7043b9526" "20241224054818.236":
+  entity tb_full_adder at 1( 0) + 0 on 13;
+  architecture behavioral of tb_full_adder at 8( 119) + 0 on 14;
+file . "fulladder.vhdl" "7eb2f193a4ce9c3a84129996191629776f66db2a" "20241224054810.845":
+  entity fulladder at 1( 0) + 0 on 11;
+  architecture logic_full_adder of fulladder at 15( 201) + 0 on 12;

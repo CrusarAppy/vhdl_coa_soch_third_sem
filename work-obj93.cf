@@ -1,0 +1,31 @@
+v 4
+file . "NAND_gate.vhdl" "a994a87d340742ef68d0d8af73a2ff6d0751f297" "20241217112921.424":
+  entity nand_gate at 1( 0) + 0 on 29;
+  architecture behavioral of nand_gate at 12( 224) + 0 on 30;
+file . "NOT_gate.vhdl" "30c9f5faaa9a3bbe8bbfc9bf0ac22dbfb0f6835c" "20241217112521.691":
+  entity not_gate at 1( 0) + 0 on 25;
+  architecture behavioral of not_gate at 10( 180) + 0 on 26;
+file . "OR_Gate.vhdl" "672637c84302c1a4cba482b3345c6d8344f5c034" "20241217111950.684":
+  entity or_gate at 1( 0) + 0 on 21;
+  architecture behavioral of or_gate at 12( 218) + 0 on 22;
+file . "tb_full_adder.vhdl" "f989c1e5ffd0672181f0be7f9ae0c0a7043b9526" "20241217080431.243":
+  entity tb_full_adder at 1( 0) + 0 on 13;
+  architecture behavioral of tb_full_adder at 8( 119) + 0 on 14;
+file . "fulladder.vhdl" "7eb2f193a4ce9c3a84129996191629776f66db2a" "20241224053551.003":
+  entity fulladder at 1( 0) + 0 on 37;
+  architecture logic_full_adder of fulladder at 15( 201) + 0 on 38;
+file . "and_gate.vhdl" "6b9ceeabcb5b385e3380720ca30743f10747043f" "20241217115714.246":
+  entity and_gate at 1( 0) + 0 on 33;
+  architecture and_logic of and_gate at 11( 149) + 0 on 34;
+file . "tb_and_gate.vhdl" "247b80e32f8f7b7fa2e587ef8323eef0b1233d16" "20241217115730.056":
+  entity tb_and_gate at 1( 0) + 0 on 35;
+  architecture behavioral of tb_and_gate at 7( 84) + 0 on 36;
+file . "tb_OR_Gate.vhdl" "810d3145816410f34db28e6599274d604212b9dd" "20241217111959.549":
+  entity tb_or_gate at 1( 0) + 0 on 23;
+  architecture behavioral of tb_or_gate at 7( 82) + 0 on 24;
+file . "tb_NOT_gate.vhdl" "11236750b4a78214c3856aee00978963ccb9b601" "20241217112530.361":
+  entity tb_not_gate at 1( 0) + 0 on 27;
+  architecture behavioral of tb_not_gate at 7( 84) + 0 on 28;
+file . "tb_NAND_gate.vhdl" "951bfac13b268a37599f721a9607198b31c8f057" "20241217112935.323":
+  entity tb_nand_gate at 1( 0) + 0 on 31;
+  architecture behavioral of tb_nand_gate at 7( 86) + 0 on 32;
