@@ -1,0 +1,13 @@
+1. Key Features Simulated
+
+Overflow Detection
+    Occurs when the result exceeds the range of the data type.
+    Detected using carry-out (unsigned) or sign-bit inconsistency (signed numbers).
+Signed vs. Unsigned Representation
+    Unsigned: Uses std_logic_unsigned for standard binary values.
+    Signed: Uses std_logic_signed for handling negative values (Two’s complement representation).
+Arithmetic Operations with Overflow Check
+    Addition
+    Subtraction
+    Multiplication
+    Division (with zero handling)
